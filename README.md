@@ -44,13 +44,22 @@ Agregar en el archivo de **README.md**
 ## Paso 7 
 En la tabla (Html) agregar tu nombre el siguiente codigo con tus datos 
 ```ssh
-
+    <td align="center">
+      <img src="avatars/yourPicture" width="100px;" alt=""/><br/><sub><b>Your Name</b></sub></a><br/>
+    </td>
 ```
 
 # Contribución
 Muchas gracias por contribuir a este repositorio
 
-
-
 -  Fabio Zapata
+
+
+<table>
+<tr>
+    <td align="center"><img src="avatars/16343293.jpg" width="100px;" alt=""/><br /><sub><b>Fabio Zapata</b></sub></a><br/></td>
+</tr>
+  
+</table>
+
 
