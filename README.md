@@ -49,6 +49,30 @@ En la tabla (Html) agregar tu nombre el siguiente codigo con tus datos
     </td>
 ```
 
+## Paso 8
+Creamos una nueva rama y agregamos los cambios al repositorio
+```ssh
+$ git checkout -b AddYourName_Contribution
+$ git add -A
+$ git commit -m "add Your name into readme files"
+$ git push origin AddYourName_Contribution
+```
+## Paso 9
+Verificamos que los cambios estén en el repositorio de github.
+
+## Paso 10
+Nos dirigimos al repositorio nuestro (https://github.com/yourUser/Hacktober-fest-2020-ACM) y allí nos vamos a la ventana de pull request.
+
+## Paso 11
+Presionamos el botón de Pull request y llenamos la información de la siguiente manera:
+-  base repository: fazd/Hacktober-fest-2020-ACM 
+-  base: master
+-  head repository: yourUser/Hacktober-fest-2020-ACM
+-  base: La rama que acaban de crear
+
+Presionas en crear pull request y escribes el mensaje explicando que hiciste
+
+
 # Contribución
 Muchas gracias por contribuir a este repositorio
 
