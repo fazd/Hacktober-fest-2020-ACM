@@ -15,10 +15,6 @@ Se debe tener instalado git en el computador
 Visitamos el repositorio al cual queremos contribuir 
 https://github.com/fazd/Hacktober-fest-2020-ACM
 
-## Paso 1
-Visitamos el repositorio al cual queremos contribuir 
-https://github.com/fazd/Hacktober-fest-2020-ACM
-
 ## Paso 2
 realizamos un fork al repositorio presionando el botón de fork mostrado anteriormente
 ![alt text](guide-files/fork.PNG?raw=true "Fork")
