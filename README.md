@@ -21,7 +21,7 @@ https://github.com/fazd/Hacktober-fest-2020-ACM
 
 ## Paso 2
 realizamos un fork al repositorio presionando el botón de fork mostrado anteriormente
-(https://github.com/fazd/Hacktober-fest-2020-ACM/blob/master/guide-files/fork.PNG?raw=true "Fork")
+![alt text](guide-files/fork.PNG?raw=true "Fork")
 
 ## Paso 3 
 Visitamos nuestro repositorio creado en nuestra cuenta:
@@ -47,5 +47,5 @@ Muchas gracias por contribuir a este repositorio
 
 -  Fabio Zapata
 
-<img src = "https://github.com/vuejs/vue/graphs/contributors">
+
 
