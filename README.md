@@ -38,14 +38,19 @@ $ cd Hacktober-fest-2020-ACM`
 Agregar una foto al folder de **avatars**
 
 ## Paso 6
-Agregar en el archivo de **README.md** tu nombre y tu foto 
+Agregar en el archivo de **README.md**  
 "-  Tu nombre"
 
+## Paso 7 
+En la tabla (Html) agregar tu nombre el siguiente codigo con tus datos 
+```ssh
+
+```
 
 # Contribución
 Muchas gracias por contribuir a este repositorio
 
+
+
 -  Fabio Zapata
-
-
 
