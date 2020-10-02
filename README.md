@@ -73,13 +73,18 @@ Presionas en crear pull request y escribes el mensaje explicando que hiciste
 Muchas gracias por contribuir a este repositorio
 
 -  Fabio Zapata
+-  Gabriela Monsalve
 
 
 <table>
 <tr>
     <td align="center"><img src="avatars/fabioZapata.jpg" width="100px;" alt=""/><br /><sub><b>Fabio Zapata</b></sub></a><br/></td>
+    <td align="center">
+      <img src="avatars/GabrielaMonsalve.png" width="100px;" alt=""/><br/><sub><b>Gabriela Monsalve</b></sub></a><br/>
+    </td>
 </tr>
   
 </table>
+
 
 
