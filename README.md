@@ -89,6 +89,7 @@ Presionas en crear pull request y escribes el mensaje explicando que hiciste
 
 Muchas gracias por contribuir a este repositorio
 -  Fabio Zapata
+-  Jorge Benavides
 -  Luisa Escobar
 -  Valeria Osorio
 -  Diego Albor
@@ -109,6 +110,7 @@ Muchas gracias por contribuir a este repositorio
 <tr>
   <td align="center"><img src="avatars/diegoAlbor.jpg" width="100px;" alt=""/><br/><sub><b>Diego Albor</b></sub></a><br/></td>
   <td align="center"><img src="avatars/manuel.png" width="100px;" alt=""/><br/><sub><b>Manuel Cabrera</b></sub></a><br/></td>
+  <td align="center"><img src="avatars/JorgeBenavides.jpg" width="100px;" alt=""/><br /><sub><b>Jorge Benavides</b></sub></a><br/></td>
 </tr>
-  
+
 </table>
