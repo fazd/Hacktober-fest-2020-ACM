@@ -89,6 +89,7 @@ Presionas en crear pull request y escribes el mensaje explicando que hiciste
 
 Muchas gracias por contribuir a este repositorio
 -  Fabio Zapata
+-  Gabriela Monsalve
 -  Victor Barbosa
 -  Jesus Imitola
 -  Jorge Benavides
@@ -113,6 +114,6 @@ Muchas gracias por contribuir a este repositorio
   <td align="center"><img src="avatars/manuel.png" width="100px;" alt=""/><br/><sub><b>Manuel Cabrera</b></sub></a><br/></td>
   <td align="center"><img src="avatars/JorgeBenavides.jpg" width="100px;" alt=""/><br /><sub><b>Jorge Benavides</b></sub></a><br/></td>
   <td align="center"><img src="avatars/foto.jpg" width="100px;" alt=""/><br/><sub><b>Jesus Imitola</b></sub></a><br/></td>
+  <img src="avatars/GabrielaMonsalve.png" width="100px;" alt=""/><br/><sub><b>Gabriela Monsalve</b></sub></a><br/>
 </tr>
-
 </table>
