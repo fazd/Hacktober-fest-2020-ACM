@@ -73,11 +73,13 @@ Presionas en crear pull request y escribes el mensaje explicando que hiciste
 Muchas gracias por contribuir a este repositorio
 
 -  Fabio Zapata
+-  Diego Albor
 
 
 <table>
 <tr>
     <td align="center"><img src="avatars/fabioZapata.jpg" width="100px;" alt=""/><br /><sub><b>Fabio Zapata</b></sub></a><br/></td>
+     <td align="center"><img src="avatars/diegoAlbor" width="100px;" alt=""/><br/><sub><b>Diego Albor</b></sub></a><br/></td>
 </tr>
   
 </table>
