@@ -88,14 +88,23 @@ Presionas en crear pull request y escribes el mensaje explicando que hiciste
 # Contribución
 
 Muchas gracias por contribuir a este repositorio
-
-- Fabio Zapata
-- Daniel Soto
+-  Fabio Zapata
+-  Luisa Escobar
+-  Valeria Osorio
+-  Diego Albor
+-  Manuel Cabrera
+-  Daniel Soto
 
 <table>
 <tr>
     <td align="center"><img src="avatars/fabioZapata.jpg" width="100px;" alt=""/><br /><sub><b>Fabio Zapata</b></sub></a><br/></td>
     <td align="center"><img src="avatars/yo.jpg" width="100px;" alt=""/><br /><sub><b>Daniel Soto</b></sub></a><br/></td>
+    <td align="center"><img src="avatars/Luisa.jpeg" width="100px;" alt=""/><br /><sub><b>Luisa Escobar</b></sub></a><br/></td>
+    <td align="center">
+      <img src="avatars/valeriaOsorio.jpg" width="100px;" alt=""/><br/><sub><b>Valeria Osorio</b></sub></a><br/>
+    </td>
+     <td align="center"><img src="avatars/diegoAlbor.jpg" width="100px;" alt=""/><br/><sub><b>Diego Albor</b></sub></a><br/></td>
+    <td align="center"><img src="avatars/manuel.png" width="100px;" alt=""/><br/><sub><b>Manuel Cabrera</b></sub></a><br/></td>
 </tr>
   
 </table>
