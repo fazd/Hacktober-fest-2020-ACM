@@ -74,6 +74,8 @@ Muchas gracias por contribuir a este repositorio
 
 -  Fabio Zapata
 -  Valeria Osorio
+-  Diego Albor
+-  Manuel Cabrera
 
 
 <table>
@@ -82,6 +84,8 @@ Muchas gracias por contribuir a este repositorio
     <td align="center">
       <img src="avatars/valeriaOsorio.jpg" width="100px;" alt=""/><br/><sub><b>Valeria Osorio</b></sub></a><br/>
     </td>
+     <td align="center"><img src="avatars/diegoAlbor.jpg" width="100px;" alt=""/><br/><sub><b>Diego Albor</b></sub></a><br/></td>
+    <td align="center"><img src="avatars/manuel.png" width="100px;" alt=""/><br/><sub><b>Manuel Cabrera</b></sub></a><br/></td>
 </tr>
   
 </table>
