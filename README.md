@@ -74,9 +74,13 @@ Muchas gracias por contribuir a este repositorio
 
 -  Fabio Zapata
 <<<<<<< HEAD
+<<<<<<< HEAD
 -  Victor Barbosa
 
 =======
+=======
+-  Valeria Osorio
+>>>>>>> 6843d0dfad41d2d1b382aff5c349f01fc7f45b2a
 -  Diego Albor
 -  Manuel Cabrera
 >>>>>>> 85ef841ed6693b5d879b05963d21bd8049744e19
@@ -86,9 +90,15 @@ Muchas gracias por contribuir a este repositorio
 <tr>
     <td align="center"><img src="avatars/fabioZapata.jpg" width="100px;" alt=""/><br /><sub><b>Fabio Zapata</b></sub></a><br/></td>
 <<<<<<< HEAD
+<<<<<<< HEAD
  <td align="center"><img src="avatars/victorBarbosa.jpg" width="100px;" alt=""/><br/><sub><b>Victor Barbosa</b></sub></a><br/></td>
  </tr>
 =======
+=======
+    <td align="center">
+      <img src="avatars/valeriaOsorio.jpg" width="100px;" alt=""/><br/><sub><b>Valeria Osorio</b></sub></a><br/>
+    </td>
+>>>>>>> 6843d0dfad41d2d1b382aff5c349f01fc7f45b2a
      <td align="center"><img src="avatars/diegoAlbor.jpg" width="100px;" alt=""/><br/><sub><b>Diego Albor</b></sub></a><br/></td>
     <td align="center"><img src="avatars/manuel.png" width="100px;" alt=""/><br/><sub><b>Manuel Cabrera</b></sub></a><br/></td>
 </tr>
