@@ -81,7 +81,7 @@ Muchas gracias por contribuir a este repositorio
     <td align="center"><img src="avatars/fabioZapata.jpg" width="100px;" alt=""/><br /><sub><b>Fabio Zapata</b></sub></a><br/></td>
 </tr>
 <tr>
-    <td align="center"><img src="avatars/JorgeBenavides.jpg" width="100px;" alt=""/><br /><sub><b>Fabio Zapata</b></sub></a><br/></td>
+    <td align="center"><img src="avatars/JorgeBenavides.jpg" width="100px;" alt=""/><br /><sub><b>Jorge Benavides</b></sub></a><br/></td>
 </tr>
   
 </table>
