@@ -80,10 +80,8 @@ Muchas gracias por contribuir a este repositorio
 <table>
 <tr>
     <td align="center"><img src="avatars/fabioZapata.jpg" width="100px;" alt=""/><br /><sub><b>Fabio Zapata</b></sub></a><br/></td>
-</tr>
- <td align="center">
-      <img src="avatars/victorBarbosa.jpg" width="100px;" alt=""/><br/><sub><b>Victor Barbosa</b></sub></a><br/>
-</td>
+ <td align="center"><img src="avatars/victorBarbosa.jpg" width="100px;" alt=""/><br/><sub><b>Victor Barbosa</b></sub></a><br/></td>
+ </tr>
 </table>
 
 
