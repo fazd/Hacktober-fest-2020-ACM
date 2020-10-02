@@ -86,9 +86,9 @@ Presionamos el botón de Pull request y llenamos la información de la siguiente
 Presionas en crear pull request y escribes el mensaje explicando que hiciste
 
 # Contribución
-
 Muchas gracias por contribuir a este repositorio
 -  Fabio Zapata
+-  Víctor Guevara
 -  Otro Fabio
 -  Gabriela Monsalve
 -  Victor Barbosa
@@ -103,6 +103,7 @@ Muchas gracias por contribuir a este repositorio
 <table>
 <tr>
     <td align="center"><img src="avatars/fabioZapata.jpg" width="100px;" alt=""/><br /><sub><b>Fabio Zapata</b></sub></a><br/></td>
+    <td align="center"><img src="avatars/senko.png" width="100px;" alt=""/><br /><sub><b>Víctor Guevara</b></sub></a><br/></td>
     <td align="center"><img src="avatars/fabioZapata.jpg" width="100px;" alt=""/><br /><sub><b>Otro Fabio</b></sub></a><br/></td>
     <td align="center"><img src="avatars/valeriaOsorio.jpg" width="100px;" alt=""/><br/><sub><b>Valeria Osorio</b></sub></a><br/></td>
     <td align="center"><img src="avatars/diegoAlbor.jpg" width="100px;" alt=""/><br/><sub><b>Diego Albor</b></sub></a><br/></td>
@@ -120,6 +121,4 @@ Muchas gracias por contribuir a este repositorio
     <td align="center"><img src="avatars/LuisPotte.png" width="100px;" alt=""/><br /><sub><b>Luis Potte</b></sub></a><br/></td>
     <td align="center"><img src="avatars/yo.jpg" width="100px;" alt=""/><br /><sub><b>Daniel Soto</b></sub></a><br/></td>
 </tr>
-
-
 </table>
