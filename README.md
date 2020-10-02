@@ -28,7 +28,7 @@ Clonamos el repositorio:
 ```ssh
 $ git clone https://github.com/yourUser/Hacktober-fest-2020-ACM`
 $ cd Hacktober-fest-2020-ACM`
-``` 
+```
 
 ## Paso 5
 Agregar una foto al folder de **avatars**
@@ -73,13 +73,17 @@ Presionas en crear pull request y escribes el mensaje explicando que hiciste
 Muchas gracias por contribuir a este repositorio
 
 -  Fabio Zapata
+-  Jesus Imitola
 
 
 <table>
 <tr>
     <td align="center"><img src="avatars/fabioZapata.jpg" width="100px;" alt=""/><br /><sub><b>Fabio Zapata</b></sub></a><br/></td>
+    <td align="center">
+      <img src="avatars/foto.jpg" width="100px;" alt=""/><br/><sub><b>Jesus Imitola</b></sub></a><br/>
+    </td>
 </tr>
-  
+
 </table>
 
 
