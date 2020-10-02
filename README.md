@@ -73,15 +73,27 @@ Presionas en crear pull request y escribes el mensaje explicando que hiciste
 Muchas gracias por contribuir a este repositorio
 
 -  Fabio Zapata
+<<<<<<< HEAD
 -  Victor Barbosa
 
+=======
+-  Diego Albor
+-  Manuel Cabrera
+>>>>>>> 85ef841ed6693b5d879b05963d21bd8049744e19
 
 
 <table>
 <tr>
     <td align="center"><img src="avatars/fabioZapata.jpg" width="100px;" alt=""/><br /><sub><b>Fabio Zapata</b></sub></a><br/></td>
+<<<<<<< HEAD
  <td align="center"><img src="avatars/victorBarbosa.jpg" width="100px;" alt=""/><br/><sub><b>Victor Barbosa</b></sub></a><br/></td>
  </tr>
+=======
+     <td align="center"><img src="avatars/diegoAlbor.jpg" width="100px;" alt=""/><br/><sub><b>Diego Albor</b></sub></a><br/></td>
+    <td align="center"><img src="avatars/manuel.png" width="100px;" alt=""/><br/><sub><b>Manuel Cabrera</b></sub></a><br/></td>
+</tr>
+  
+>>>>>>> 85ef841ed6693b5d879b05963d21bd8049744e19
 </table>
 
 
