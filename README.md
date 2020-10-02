@@ -89,17 +89,19 @@ Presionas en crear pull request y escribes el mensaje explicando que hiciste
 
 Muchas gracias por contribuir a este repositorio
 -  Fabio Zapata
-
+-  Victor Barbosa
 -  Jesus Imitola
 -  Jorge Benavides
 -  Luisa Escobar
 -  Valeria Osorio
 -  Diego Albor
 -  Manuel Cabrera
--  Daniel Soto
+
 
 <table>
 <tr>
+    <td align="center"><img src="avatars/fabioZapata.jpg" width="100px;" alt=""/><br /><sub><b>Fabio Zapata</b></sub></a><br/></td>
+    <td align="center"><img src="avatars/victorBarbosa.jpg" width="100px;" alt=""/><br/><sub><b>Victor Barbosa</b></sub></a><br/></td>
     <td align="center"><img src="avatars/LuisPotte.png" width="100px;" alt=""/><br /><sub><b>Luis Potte</b></sub></a><br/></td>
     <td align="center"><img src="avatars/yo.jpg" width="100px;" alt=""/><br /><sub><b>Daniel Soto</b></sub></a><br/></td>
     <td align="center"><img src="avatars/Luisa.jpeg" width="100px;" alt=""/><br /><sub><b>Luisa Escobar</b></sub></a><br/></td>
@@ -111,7 +113,6 @@ Muchas gracias por contribuir a este repositorio
   <td align="center"><img src="avatars/manuel.png" width="100px;" alt=""/><br/><sub><b>Manuel Cabrera</b></sub></a><br/></td>
   <td align="center"><img src="avatars/JorgeBenavides.jpg" width="100px;" alt=""/><br /><sub><b>Jorge Benavides</b></sub></a><br/></td>
   <td align="center"><img src="avatars/foto.jpg" width="100px;" alt=""/><br/><sub><b>Jesus Imitola</b></sub></a><br/></td>
-
 </tr>
 
 </table>
