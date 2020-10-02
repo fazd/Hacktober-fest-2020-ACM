@@ -73,11 +73,13 @@ Presionas en crear pull request y escribes el mensaje explicando que hiciste
 Muchas gracias por contribuir a este repositorio
 
 -  Fabio Zapata
+-  Víctor Guevara
 
 
 <table>
 <tr>
     <td align="center"><img src="avatars/fabioZapata.jpg" width="100px;" alt=""/><br /><sub><b>Fabio Zapata</b></sub></a><br/></td>
+    <td align="center"><img src="avatars/senko.png" width="100px;" alt=""/><br /><sub><b>Víctor Guevara</b></sub></a><br/></td>
 </tr>
   
 </table>
