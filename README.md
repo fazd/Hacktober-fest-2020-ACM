@@ -98,6 +98,7 @@ Muchas gracias por contribuir a este repositorio
 -  Valeria Osorio
 -  Diego Albor
 -  Manuel Cabrera
+-  Sebastián Molano
 
 
 <table>
@@ -120,5 +121,6 @@ Muchas gracias por contribuir a este repositorio
 <tr>
     <td align="center"><img src="avatars/LuisPotte.png" width="100px;" alt=""/><br /><sub><b>Luis Potte</b></sub></a><br/></td>
     <td align="center"><img src="avatars/yo.jpg" width="100px;" alt=""/><br /><sub><b>Daniel Soto</b></sub></a><br/></td>
+    <td align="center"><img src="avatars/sebastianMolano.jpg" width="100px;" alt=""/><br /><sub><b>Sebastián Molano</b></sub></a><br/></td>
 </tr>
 </table>
